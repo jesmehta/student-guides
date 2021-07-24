@@ -1,15 +1,15 @@
-#3D Print Estimation Guide
+# 3D Print Estimation Guide
 
 1.	Load STL into FlashPrint
 2.	Move, rotate and otherwise generally align the STL file as needed and snap to ground.
 3.	For overhangs or undercuts or other unsupported features, use Supports.
 4.	To provide supports,
   a.	click on Supports button
-    i.	go to Support option
-   ii.	select the type of support required (Treelike / Linear)
-  iii.	click OK button
-OR
-   iv.	use Auto Supports
+    1.	go to Support option
+    2.	select the type of support required (Treelike / Linear)
+    3.	click OK button
+ OR
+    4. Use Auto Supports
   b.	click Back to get to main screen
 5.	Click on the Extruder button and select the correct extruder
 6.	Click on the Print button
