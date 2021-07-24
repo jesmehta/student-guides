@@ -1,5 +1,7 @@
 # 3D Print Estimation Guide
 
+## Basic Instructions
+
 1.	Load STL into FlashPrint
 2.	Move, rotate and otherwise generally align the STL file as needed and snap to ground.
 3.	For overhangs or undercuts or other unsupported features, use Supports.
