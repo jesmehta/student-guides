@@ -20,4 +20,4 @@ Same folder
 No explicit
 [Getting a Time estimate for a 3D Print -io readme](https://jesmehta.github.io/student-guides/3D%20printing%20estimate)
 
-[Getting a Time estimate for a 3D Print -io 3dpeg.md](https://jesmehta.github.io/student-guides/)
+[Getting a Time estimate for a 3D Print -io 3dpeg.md](https://jesmehta.github.io/student-guides/3dpeg)
